@@ -12,11 +12,11 @@ function Footer() {
             </span>
         </h2>
         <p className="pt-3">
-          115,1st Floor,R.G complex-2,sector-14,Prasant Vihar,Rohini, New
+          Prasant Vihar,Rohini, New
           Delhi-110085
         </p>
         <p><IoMdPhonePortrait/> + 91 01147512341, + 91 9310123488</p>
-        <p> <FaEnvelopeSquare/> globaldestinationmngmt@gmail.com</p>
+        <p> <FaEnvelopeSquare/> getyourtrip@gmail.com</p>
       </div>
       <div className="footer_cotainer_subcon2">
         <h2>
@@ -55,12 +55,12 @@ function Footer() {
 </div>
 
     </div>
-    <div className="d-flex w-100 bg-dark text-white flex-wrap justify-content-center">
+    <div className="d-flex w-100 bg-dark text-white flex-wrap justify-content-between">
     <div className="footer_last_para">
-    &copy; All right reserved by GLOBAL DESTINATION MANAGEMENT.
+    &copy; All right reserved by GET YOUR TRIP .
     </div>
-    <div className="footer_last_para">
-    Designed and Developed by SQUBESOFTSOL PVT. LTD.
+    <div className="footer_last_para1">
+    Designed and Developed by <a href="https://www.kanakdrishtiinfotec.in/" target="_blank">Kanak Drishti Infotech Pvt Ltd</a>.
     </div>
 </div>
     </div>

@@ -22,8 +22,10 @@ function Maincon5() {
   return (
     <div className="maincon3_container">
       <h1>
+        <span style={{borderBottom:"3px solid rgb(21, 212, 237)"}}>
+
       Domestic - <span style={{ color: "rgb(21, 212, 237)" }}> Holiday Packages</span>
-        <div style={{ width: "46%", border: "2px solid rgb(21, 212, 237)",alignSelf:"start"}}></div>
+        </span>
       </h1>
       <div>
         <div className="slider">

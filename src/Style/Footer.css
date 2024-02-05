@@ -10,8 +10,14 @@
 
 }
 .footer_last_para{
-    width:30rem;
-    margin-left: 0.5rem;
+    width:20rem;
+    margin-left: 0.1rem;
+    /* border: 1px solid black; */
+
+}
+.footer_last_para1{
+    width:28rem;
+    margin-left: 0.1rem;
     /* border: 1px solid black; */
 
 }
